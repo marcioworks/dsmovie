@@ -1,5 +1,4 @@
 import MovieCard from "components/MovieCard";
-import MovieScore from "components/MovieScore";
 import Pagination from "components/Pagination";
 import "./styles.css";
 function Listing() {
